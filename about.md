@@ -1,1 +1,1 @@
-Abcd
+Rozwiązywanie konfliktów
