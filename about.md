@@ -1,1 +1,1 @@
-Zmiana obiektu
+Rozwiązywanie konfliktów
