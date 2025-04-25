@@ -1,1 +1,1 @@
-# Git Warsztaty
+Zmiana obiektu
